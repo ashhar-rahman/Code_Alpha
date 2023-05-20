@@ -15,6 +15,6 @@ A tribute page created under the virtual internship program of Code Alpha. <br>
 
 
 <div align="center">
-<img height="337px" src="https://github.com/ashhar-rahman/Code_Alpha/blob/main/CERTIFICATE/ASHHAR%20RAHMAN%20Certificate.jpg">
+<img height="337px" src="https://github.com/ashhar-rahman/Code_Alpha/blob/main/CERTIFICATE/ASHHAR%20RAHMAN%20Offer%20Letter.jpg">
 <!-- <img width="337px" src="https://github.com/ashhar-rahman/OASIS-INFOBYTE/blob/main/CERTIFICATE/ASHHAR%20RAHMAN%20Offer%20Letter.jpg"> -->
 </div>
