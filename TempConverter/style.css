@@ -1,0 +1,155 @@
+ 
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    margin: 0;
+      /* background-color: #ffffff; */
+      background-image: url(43945.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+.car1 {
+    margin: 150px auto;
+    max-width: 300px;
+    background-color: #333;
+    border: 1px solid #ccc;
+    
+    padding: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 19px;
+    font-size: 16px;
+  }
+.search {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: center;
+}
+  
+  
+  
+input.search-bar {
+    border: none;
+    outline: none;
+    padding: 0.4em 1em;
+    border-radius: 24px;
+    background: #7c7c7c2b;
+    color: white;
+    font-family: inherit;
+    font-size: 105%;
+    width: calc(100% -100px);
+}
+.search-bar2 {
+    border: none;
+    outline: none;
+    padding: 0.4em 1em;
+    border-radius: 24px;
+    background: #7c7c7c2b;
+    color: white;
+    height:15px;
+    font-family: inherit;
+    font-size: 105%;
+    width: 160px;
+}
+#calcTemp {
+    background: #0f0f0fd0;
+
+    
+    color: white;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    margin: 1em;
+}
+
+label {
+    font-size: 30px;
+    line-height: 78px;
+}
+
+#temp {
+  border: none;
+  outline: none;
+  padding: 0.4em 1em;
+  border-radius: 24px;
+  background: #7c7c7c2b;
+  color: white;
+  font-family: inherit;
+  font-size: 105%;
+  width: 170px
+    
+}
+
+
+#temp_diff  {
+  outline: none;
+    padding: 0.4em 1em;
+    border-radius: 24px;
+    background: #7c7c7c2b;
+    color: white;
+    font-family: inherit;
+    font-size: 105%;
+    width: 160px;
+   
+}
+
+#submit {
+  outline: none;
+    padding: 0.4em 1em;
+    border-radius: 24px;
+    background: #7c7c7c2b;
+    color: white;
+    font-family: inherit;
+    font-size: 105%;
+    width: 110px;
+    
+}
+
+
+#submit:hover{
+    
+    cursor: pointer;
+    color: aqua;
+}
+
+#result{
+    font-size: 27px;
+    outline: none;
+    padding: 0.4em 1em;
+    border-radius: 24px;
+    background: #7c7c7c2b;
+    color: white;
+    font-family: inherit;
+    height:20px;
+    font-size: 105%;
+    width: 170px;
+   margin-left: 90px;
+}
+.sub{
+    margin-left: 140px;
+}
+  
+footer {
+    text-align: center;
+  /*   display: flex;
+    justify-content: space-between; */
+    align-items: center;
+    /* background-color: #333; */
+    color: #000000;
+    padding: 1em;
+    font-size: x-large;
+}
+  
+footer:hover{
+    color: #ff5303;
+}
+
+
+

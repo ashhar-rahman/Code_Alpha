@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather App</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+  <div class="card" id="car1">
+    <form id="calcTemp" onsubmit="calculateTemp(); return false">
+      <label for="temp">Temperature Converter</label>
+      <br />
+      <input class="search-bar" type="number" name="temp" id="temp" value="0">
+      <select name="temp_diff" id="temp_diff" >
+        <option value="cel">Celsius</option>
+        <option value="fah">Fahrenheit</option>
+      </select>
+      <br><br>
+      <div class="search-bar">
+        <div  name="temp" id="result" value="0">
+      </div>
+      <br>
+      <div class="sub">
+      <input  id="submit" name="convert" type="submit" id="submit">
+      </div>
+      <br>
+    </form>
+    
+  </div>
+  <footer>
+    <p>MADE BY ASHHAR RAHMAN</span></p>
+    
+  </footer>
+    
+
+  <script src="script.js"></script>
+</body>
+</html>
