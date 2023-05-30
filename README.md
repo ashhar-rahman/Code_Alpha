@@ -1,7 +1,7 @@
 # Code_Alpha
 
  Code Alpha Internship program.
-OASIS INFOBYTE offers a variety of website design and development services. Got the chance for 1 month intern of Web development and design.
+Offers a variety of website design and development services. Got the chance for 1 month intern of Web development and design.
 
 
 
@@ -13,6 +13,9 @@ To create a TempConv. with basic mathematical functionalities using CSS, HTML, a
 A tribute page created under the virtual internship program of Code Alpha. <br>
 [Live](https://ashhar-rahman.github.io/Code_Alpha/URL_Shortener/index.html)
 
+## 2. Online code editor
+A tribute page created under the virtual internship program of Code Alpha. <br>
+[Live](https://ashhar-rahman.github.io/Code_Alpha/Code_Editor/index.html)
 
 <div align="center">
 <img height="337px" src="https://github.com/ashhar-rahman/Code_Alpha/blob/main/CERTIFICATE/ASHHAR%20RAHMAN%20Offer%20Letter.jpg">
